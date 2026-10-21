@@ -1,0 +1,13 @@
+venv/
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+.env
+*.db
+dist/
+!frontend/dist/
+.vscode/
+backend/data/*
+!backend/data/.gitkeep
+tests/screenshots/
